@@ -1,4 +1,4 @@
-# MyMakefileExample
+# My Makefile Example
 This is a demonstration of my Makefile at work.
 
 The advantege of this Make file is, that I do not need to list the source code files of the project, and another important advantege is, that it automatically resolves dependencies. I do however need to list the include paths.
